@@ -2,12 +2,13 @@
   "id": "e17",
   "slug": "crossborder-product-research",
   "name": "跨境选品报告",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "repo": "campfire-code/crossborder-product-research",
   "license": "MIT",
   "ui": {
-    "layout": "c",
-    "palette": "green"
+    "layout": "e",
+    "palette": "green",
+    "accent": "#AE1613"
   },
   "upstream": null
 }
